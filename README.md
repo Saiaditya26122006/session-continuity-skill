@@ -155,8 +155,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 Built this because I got tired of re-explaining my projects to Claude every single morning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sai-aditya-talluri-03ab8b2b0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Saiaditya26122006)
 
 ---
 
